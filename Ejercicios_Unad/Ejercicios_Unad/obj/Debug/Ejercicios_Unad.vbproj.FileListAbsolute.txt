@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\bin\Debug\Ejercicios_Unad.exe.config
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\bin\Debug\Ejercicios_Unad.exe
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\bin\Debug\Ejercicios_Unad.pdb
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\bin\Debug\Ejercicios_Unad.xml
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.Ejercicio_04.resources
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.Form1.resources
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.Resources.resources
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.exe
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.xml
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.pdb
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.Ejercicio_11.resources
+C:\Users\user\Desktop\Taller_Visual_Paso_03\Ejercicios_Unad\Ejercicios_Unad\obj\Debug\Ejercicios_Unad.Ejercicio_16.resources
